@@ -15,4 +15,4 @@ function makeGrids(size) {
 	}
 }
 
-makeGrids(10);
+makeGrids(15);
